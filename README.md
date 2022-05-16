@@ -2,6 +2,8 @@
 
 Carrier board for a 6mm C-Series MICROFC-60035-SMT silicon photomultiplier by [onsemi](https://www.onsemi.com/pdf/datasheet/microc-series-d.pdf).
 
+PCB size is 18 x 18 mm.
+
 <p align="center">
   <img alt="Front Side PCB" title="Front Side PCB" src="docs/sipm1.PNG" style="width:49%">
   <img alt="Back Side PCB" title="Back Side PCB" src="docs/sipm2.PNG" style="width:49%">
