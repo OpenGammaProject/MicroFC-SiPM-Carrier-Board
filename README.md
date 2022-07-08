@@ -2,7 +2,7 @@
 
 Carrier board for a 6 mm C-Series MICROFC-60035-SMT silicon photomultiplier by [onsemi](https://www.onsemi.com/pdf/datasheet/microc-series-d.pdf) designed specifically to work with the [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector).
 
-PCB size is 18 x 18 mm.
+PCB size is 18 x 18 mm. You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/boards/github.com/open-gamma-project/sipm-carrier-board/).
 
 <p align="center">
   <img alt="Front Side PCB" title="Front Side PCB" src="docs/sipm1.PNG" style="width:49%">
