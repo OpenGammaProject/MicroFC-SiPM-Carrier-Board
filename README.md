@@ -1,4 +1,4 @@
-# SiPM Carrier Board
+# MicroFC SiPM Carrier Board
 
 Carrier board for a 6 mm C-Series MICROFC-60035-SMT silicon photomultiplier by [onsemi](https://www.onsemi.com/pdf/datasheet/microc-series-d.pdf) designed specifically to work with the [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector).
 
