@@ -14,3 +14,9 @@ On the front side there is only the sensor itself while all the other parts are 
 The PCB includes the recommended SiPM [biasing](https://www.onsemi.com/pub/Collateral/AND9782-D.PDF) that is optional to use. Enable it by closing the solder jumper `JP1` and then soldering wires to the `VCC` and `GND` pin respectively. The SiPM signal will be anode `A` pad.
 
 If you are connecting straight to the SiPM, do so via the cathode `C` and anode `A` pads and open the jumper `JP1`.
+
+<p align="center">
+  <img alt="SiPM Orientation" title="SiPM Orientation" src="docs/SiPM-orientation.jpg" width="32%">
+  <img alt="Top Side Carrier Board" title="Top Side Carrier Board" src="docs/carrier_board1.jpg" width="32%">
+  <img alt="Bottom Side Carrier Board w/ components" title="Bottom Side Carrier Board w/ components" src="docs/carrier_board2.jpg" width="32%">
+</p>
