@@ -12,6 +12,7 @@ PCB size is 18 x 18 mm. The solder pads for the SiPM are slightly bigger than th
 <p align="center">
   <img alt="Front Side PCB Rendering" title="Front Side PCB Rendering" src="docs/sipm1.png" height="300px">
   <img alt="Back Side PCB Rendering" title="Back Side PCB Rendering" src="docs/sipm2.png" height="300px">
+  <img alt="Back Side 3D Rendering" title="Back Side 3D Rendering" src="docs/sipm3.png" height="300px">
 </p>
 
 On the front side there is only the sensor itself while all the other parts are on the back. This ensures good optical contact and light-tight sealing. The unused SiPM pin number 4 is connected to the ground pad for some added thermal mass and connection to the ground plane where the NTC also sits on.
