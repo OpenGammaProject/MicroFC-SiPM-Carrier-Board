@@ -1,0 +1,20 @@
+﻿Designator;Footprint;Mid X;Mid Y;Ref X;Ref Y;Pad X;Pad Y;Layer;Rotation;Comment
+A;WIRE-PAD_ROUND-.1;20.5mm;-5mm;20.5mm;-5mm;20.5mm;-5mm;B;180;OUT
+C;WIRE-PAD_ROUND-.1;16.5mm;-4.5mm;16.5mm;-4.5mm;16.5mm;-4.5mm;B;180;VCC
+C1;C0603;17mm;6.25mm;17mm;6.25mm;17mm;6.95mm;B;270;100nF
+C2;C0603;13.5mm;2.5mm;13.5mm;2.5mm;13.5mm;1.8mm;B;90;100nF
+C3;C0603;16mm;-2mm;16mm;-2mm;16.7mm;-2mm;B;180;100nF
+C4;C0603;22.75mm;2.25mm;22.75mm;2.25mm;22.75mm;2.95mm;B;270;2.2uF
+C5;C0603;25.25mm;5.75mm;25.25mm;5.75mm;25.95mm;5.75mm;B;180;2.2uF
+D1;MICROFC−60035−SMT;20.5mm;0.5mm;20.5mm;0.5mm;17.4mm;-2.6mm;T;0;SiPM
+G;WIRE-PAD_ROUND-.1;24.5mm;-4.5mm;24.5mm;-4.5mm;24.5mm;-4.5mm;B;180;VCC
+Q1;SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR;20mm;4.5mm;20mm;4.5mm;19mm;3.55mm;B;180;MMBT5088LT1G
+Q2;SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR;23.75mm;-1.25mm;23.75mm;-1.25mm;22.8mm;-0.25mm;B;90;MMBT5088LT1G
+R1;R0603;15.25mm;4mm;15.25mm;4mm;15.25mm;4.75mm;B;270;49.9Ω
+R2;R0603;15.25mm;1mm;15.25mm;1mm;15.25mm;1.75mm;B;270;49.9Ω
+R3;R0603;20.25mm;-1mm;20.25mm;-1mm;21mm;-1mm;B;180;49.9kΩ
+R4;R0603;26.5mm;-1mm;26.5mm;-1mm;26.5mm;-1.75mm;B;90;49.9kΩ
+R5;R0603;20.25mm;2mm;20.25mm;2mm;21mm;2mm;B;180;24kΩ
+R6;R0603;20.25mm;0.5mm;20.25mm;0.5mm;21mm;0.5mm;B;180;10KΩ
+U1;SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL;25.5mm;2.75mm;25.5mm;2.75mm;24.55mm;3.9mm;B;0;TPS7B6950DBVR
+VCC;WIRE-PAD_ROUND-.1;20.5mm;7.5mm;20.5mm;7.5mm;20.5mm;7.5mm;B;0;VCC
