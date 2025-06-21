@@ -24,3 +24,5 @@ The temperature compensation circuitry is based on a [paper by Evgeny Kuznetsov]
 If you are connecting straight to the SiPM, do so via the cathode `C` and anode `A` pads and leave all the other components unsoldered. You should also use the GND pad in that case too.
 
 ![SiPM Orientation](docs/SiPM-orientation.jpg)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GLR3G)
