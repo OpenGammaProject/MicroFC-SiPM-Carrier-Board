@@ -21,6 +21,8 @@ The PCB includes the recommended SiPM [biasing filter](https://www.onsemi.com/pu
 
 The temperature compensation circuitry is based on a [paper by Evgeny Kuznetsov](https://doi.org/10.1016/j.nima.2017.11.060) (Temperature-compensated silicon photomultiplier). Research and testing was mostly done by [@sebyon](https://github.com/sebyon), thanks a lot!
 
+**NOTE:** When using the temp compensation circuit, some users have reported **issues** with the onboard regulator when feeding in 30V through an **external lab power supply**. If you experience weird issues with the regulator (especially due to abnormal heating), **soldering a second 2.2µF capacitor in parallel to C5 should fix** this issue! The board is too small for a proper 4.7µF capacitor, but you can just stack them when soldering. **This is not an issue when using the power supply of the Open Gamma Detector or the Mini SiD.**
+
 If you are connecting straight to the SiPM, do so via the cathode `C` and anode `A` pads and leave all the other components unsoldered. You should also use the GND pad in that case too.
 
 ![SiPM Orientation](docs/SiPM-orientation.jpg)
